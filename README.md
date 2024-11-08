@@ -1,10 +1,16 @@
 
 # Feature engineering with logistic regression to classify movie reviews
 
-*Submission for University of Arizona Spring 2024 Statistical NLP Class Kaggle Competition*
+**Submission for University of Arizona Spring 2024 Statistical NLP Class Kaggle Competition**
 
-*Alison Kleczewski*
-<br /><br />
+***By Alison Kleczewski***
+
+## Final Results
+
+**Kaggle Leaderboard Rank: 6 out of 68**
+
+**F-Score: 0.92957**
+
 
 ## Task
 The dataset for this project contains reviews which fall into 3 categories:
